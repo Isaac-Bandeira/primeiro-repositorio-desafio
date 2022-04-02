@@ -1,0 +1,12 @@
+mkdir - Criar repositório
+git init - iniciar o repositório
+git add - adicionar arquivos e dar início ao versionamento  
+git commit - Criar commit
+ls - listar arquivos
+ls -a - mostra pastas ocultas
+cd 'nome da pasta' - entrar na pasta selecionada
+cd .. - Sair da pasta selecionada
+crtl + L - Limpar interface
+git config --global user.name "Nome do autor" - Colocando nome do autor do git
+git config --global user.email "email do autor" - Colocando email do autor
+git commit -m "nome do arquivo" - Nomear arquivos adicionados
